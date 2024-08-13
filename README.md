@@ -1,4 +1,3 @@
-# Flutter-Tech-Task
 ## Pokédex App with Flutter
 
 This Pokedex app lets you explore a list of Pokemon, view detailed information about each one, and easily manage your list of favorites.
